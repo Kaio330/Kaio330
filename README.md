@@ -1,10 +1,10 @@
 ## Olá, Seja Bem Vindo!👋
 <div>
 <a href="https://github.com/Kaio330/github-readme-stats">
-  <img height=200em align="center" src="https://github-readme-stats.vercel.app/api?username=Kaio330&show_icons=true&theme=transparent" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Kaio330&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Kaio330/convoychat">
-  <img height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaio330&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaio330&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div>
 
